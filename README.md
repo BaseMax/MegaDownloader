@@ -28,7 +28,15 @@ we download the encrypted file using the url returned in step 1 api response
 **step 3:**
 after download decrypt the file
 
-## Sample API Response
+## Sample MEGA Link
+
+https://mega.nz/#!GF9mCC5A!yrZMIgVlNok_wE6Vl2130sTJKOGTKgvxpPjSVOwVz1Y1
+
+**File ID:** GF9mCC5A
+
+**Key ID:** yrZMIgVlNok_wE6Vl2130sTJKOGTKgvxpPjSVOwVz1Y1
+
+### Sample API Response
 
 ```
 [0] => stdClass Object
