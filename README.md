@@ -58,6 +58,16 @@ File link at top object is expired!
 - g=dl link
 - at=file attributes it may contain other info also not only filename
 
+## Call API Using CURL
+
+**File ID:** GF9mCC5A
+
+**API URL:** https://g.api.mega.co.nz/cs
+
+```
+curl -X POST -d '[{"a":"g","v":2,"p":"GF9mCC5A","ssl":2,"g":1}]'  -v https://g.api.mega.co.nz/cs
+```
+
 ## Tools
 
 - libopenssl
