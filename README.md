@@ -1,4 +1,9 @@
-# MegaDownloader
+# MEGA Downloader
+
+MEGA.nzmega.nz
+
+We make secure cloud storage simple. Create an account and get 50 GB free on MEGA's end-to-end encrypted cloud collaboration platform today!
+
 
 # Mega.n Downloader Script
 
