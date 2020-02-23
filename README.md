@@ -15,6 +15,34 @@ A script to download file from Mega.n and read it. (Using PHP)
 - Download the file
 - Read file and Decrypt it
 
+## Tasks
+
+**step 1:**
+make api call to mega api server get info about the file with download link
+api return filename,filesize,download link
+filename is encrypted string
+
+**step 2:**
+we download the encrypted file using the url returned in step 1 api response
+
+**step 3:**
+after download decrypt the file
+
+## Sample API Response
+
+```
+[0] => stdClass Object
+(
+    [s] => 4
+    [at] => gELEbMQ0rg3kEyC9sUtlORwYuQ_Kp19OMXm0Ju-u_enARPeJSc0DleBpdw_GjBIcFt8YHP_Jr_-r2Q7kywUt0w
+    [msd] => 1
+    [tl] => 0
+    [g] => https://gfs270n062.userstorage.mega.co.nz/dl/NcL3FDKCLMnG7gLizKAJNyhehZe5cNgHTl5h0ceS0DHL8okSJCeRPnbvBWgz63oA1m-PTVG24rSrAK5U47pPuFcxMXbVvHpwXvSiuhUyfHnXvu9vI_pHLBYUZfsbJA
+)
+```
+
+File link at top object is expired!
+
 ## Tools
 
 - libopenssl
