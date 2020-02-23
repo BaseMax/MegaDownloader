@@ -43,6 +43,13 @@ after download decrypt the file
 
 File link at top object is expired!
 
+## MEGA API Structure
+
+- at=attributes means contains filename etc
+- s=size of file
+- g=dl link
+- at=file attributes it may contain other info also not only filename
+
 ## Tools
 
 - libopenssl
