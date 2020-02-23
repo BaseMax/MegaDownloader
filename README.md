@@ -34,7 +34,7 @@ https://mega.nz/#!GF9mCC5A!yrZMIgVlNok_wE6Vl2130sTJKOGTKgvxpPjSVOwVz1Y1
 
 **File ID:** GF9mCC5A
 
-**Key ID:** yrZMIgVlNok_wE6Vl2130sTJKOGTKgvxpPjSVOwVz1Y1
+**File decrypt key:** yrZMIgVlNok_wE6Vl2130sTJKOGTKgvxpPjSVOwVz1Y1
 
 ### Sample API Response
 
